@@ -1,101 +1,101 @@
 platform_id,item_id,item_name,completion_percentage,due_date,assigned_team,priority,estimated_hours,status
-PLAT-001,ITEM-001-001,Equipment Item 1-1,58,2025-09-19,Delta,High,24,In Progress
-PLAT-001,ITEM-001-002,Equipment Item 1-2,67,2025-08-25,Gamma,High,87,In Progress
-PLAT-001,ITEM-001-003,Equipment Item 1-3,8,2025-09-10,Gamma,Medium,17,Planning
-PLAT-001,ITEM-001-004,Equipment Item 1-4,74,2025-11-18,Delta,High,114,In Progress
-PLAT-001,ITEM-001-005,Equipment Item 1-5,31,2025-10-03,Beta,Low,14,In Progress
-PLAT-001,ITEM-001-006,Equipment Item 1-6,27,2025-10-31,Echo,Medium,118,In Progress
-PLAT-001,ITEM-001-007,Equipment Item 1-7,27,2025-09-16,Echo,High,73,In Progress
-PLAT-001,ITEM-001-008,Equipment Item 1-8,65,2025-10-18,Alpha,High,18,In Progress
-PLAT-001,ITEM-001-009,Equipment Item 1-9,100,2025-11-29,Alpha,Low,49,Completed
-PLAT-001,ITEM-001-010,Equipment Item 1-10,93,2025-10-30,Beta,Medium,11,Almost Done
-PLAT-001,ITEM-001-011,Equipment Item 1-11,50,2025-11-26,Delta,High,120,In Progress
-PLAT-001,ITEM-001-012,Equipment Item 1-12,90,2025-08-29,Alpha,High,49,Almost Done
-PLAT-001,ITEM-001-013,Equipment Item 1-13,59,2025-11-05,Beta,High,94,In Progress
-PLAT-001,ITEM-001-014,Equipment Item 1-14,41,2025-11-04,Alpha,High,25,In Progress
-PLAT-001,ITEM-001-015,Equipment Item 1-15,100,2025-11-06,Echo,High,88,Completed
-PLAT-001,ITEM-001-016,Equipment Item 1-16,56,2025-09-30,Alpha,Low,36,In Progress
-PLAT-001,ITEM-001-017,Equipment Item 1-17,3,2025-09-04,Delta,Low,93,Planning
-PLAT-001,ITEM-001-018,Equipment Item 1-18,100,2025-10-01,Beta,Low,34,Completed
-PLAT-001,ITEM-001-019,Equipment Item 1-19,15,2025-11-01,Beta,Low,88,Planning
-PLAT-001,ITEM-001-020,Equipment Item 1-20,1,2025-08-21,Beta,Medium,117,Planning
-PLAT-001,ITEM-001-021,Equipment Item 1-21,0,2025-09-27,Gamma,Medium,52,Not Started
-PLAT-001,ITEM-001-022,Equipment Item 1-22,76,2025-09-18,Gamma,Low,72,Almost Done
-PLAT-001,ITEM-001-023,Equipment Item 1-23,100,2025-09-24,Beta,Low,25,Completed
-PLAT-001,ITEM-001-024,Equipment Item 1-24,2,2025-11-28,Beta,High,116,Planning
-PLAT-001,ITEM-001-025,Equipment Item 1-25,5,2025-09-06,Delta,Medium,44,Planning
-PLAT-001,ITEM-001-026,Equipment Item 1-26,0,2025-10-25,Delta,Low,110,Not Started
-PLAT-001,ITEM-001-027,Equipment Item 1-27,100,2025-11-25,Alpha,Medium,23,Completed
-PLAT-001,ITEM-001-028,Equipment Item 1-28,99,2025-10-07,Gamma,High,28,Almost Done
-PLAT-001,ITEM-001-029,Equipment Item 1-29,0,2025-08-16,Gamma,Low,26,Not Started
-PLAT-001,ITEM-001-030,Equipment Item 1-30,9,2025-09-04,Delta,Low,24,Planning
-PLAT-001,ITEM-001-031,Equipment Item 1-31,2,2025-08-31,Alpha,High,30,Planning
-PLAT-001,ITEM-001-032,Equipment Item 1-32,26,2025-11-04,Delta,Medium,63,In Progress
-PLAT-001,ITEM-001-033,Equipment Item 1-33,95,2025-09-05,Alpha,Low,88,Almost Done
-PLAT-001,ITEM-001-034,Equipment Item 1-34,94,2025-10-12,Gamma,Low,96,Almost Done
-PLAT-001,ITEM-001-035,Equipment Item 1-35,96,2025-09-26,Echo,High,108,Almost Done
-PLAT-001,ITEM-001-036,Equipment Item 1-36,5,2025-08-18,Echo,Low,106,Planning
-PLAT-001,ITEM-001-037,Equipment Item 1-37,67,2025-11-13,Delta,Low,28,In Progress
-PLAT-001,ITEM-001-038,Equipment Item 1-38,46,2025-10-13,Gamma,Low,27,In Progress
-PLAT-001,ITEM-001-039,Equipment Item 1-39,20,2025-12-03,Beta,Low,89,Planning
-PLAT-001,ITEM-001-040,Equipment Item 1-40,19,2025-08-25,Beta,Medium,8,Planning
-PLAT-001,ITEM-001-041,Equipment Item 1-41,42,2025-09-30,Alpha,Low,67,In Progress
-PLAT-001,ITEM-001-042,Equipment Item 1-42,45,2025-10-15,Gamma,Low,23,In Progress
-PLAT-001,ITEM-001-043,Equipment Item 1-43,90,2025-10-27,Gamma,Medium,17,Almost Done
-PLAT-001,ITEM-001-044,Equipment Item 1-44,46,2025-11-19,Echo,Medium,94,In Progress
-PLAT-001,ITEM-001-045,Equipment Item 1-45,10,2025-10-19,Echo,Medium,61,Planning
-PLAT-001,ITEM-001-046,Equipment Item 1-46,15,2025-09-30,Gamma,Medium,108,Planning
-PLAT-001,ITEM-001-047,Equipment Item 1-47,83,2025-10-13,Gamma,Medium,29,Almost Done
-PLAT-001,ITEM-001-048,Equipment Item 1-48,0,2025-11-21,Gamma,Low,26,Not Started
-PLAT-001,ITEM-001-049,Equipment Item 1-49,83,2025-12-01,Delta,High,34,Almost Done
-PLAT-001,ITEM-001-050,Equipment Item 1-50,58,2025-10-11,Delta,Low,15,In Progress
-PLAT-002,ITEM-002-001,Equipment Item 2-1,92,2025-11-01,Gamma,Low,27,Almost Done
-PLAT-002,ITEM-002-002,Equipment Item 2-2,68,2025-11-28,Echo,Low,17,In Progress
-PLAT-002,ITEM-002-003,Equipment Item 2-3,100,2025-09-19,Alpha,Low,94,Completed
-PLAT-002,ITEM-002-004,Equipment Item 2-4,18,2025-08-31,Echo,Low,11,Planning
-PLAT-002,ITEM-002-005,Equipment Item 2-5,90,2025-10-16,Gamma,Medium,21,Almost Done
-PLAT-002,ITEM-002-006,Equipment Item 2-6,45,2025-09-16,Beta,Low,22,In Progress
-PLAT-002,ITEM-002-007,Equipment Item 2-7,100,2025-09-13,Echo,Medium,104,Completed
-PLAT-002,ITEM-002-008,Equipment Item 2-8,95,2025-08-31,Echo,Medium,31,Almost Done
-PLAT-002,ITEM-002-009,Equipment Item 2-9,17,2025-09-07,Delta,Low,86,Planning
-PLAT-002,ITEM-002-010,Equipment Item 2-10,91,2025-09-24,Gamma,Medium,65,Almost Done
-PLAT-002,ITEM-002-011,Equipment Item 2-11,0,2025-08-15,Alpha,High,30,Not Started
-PLAT-002,ITEM-002-012,Equipment Item 2-12,0,2025-08-27,Alpha,Medium,46,Not Started
-PLAT-002,ITEM-002-013,Equipment Item 2-13,0,2025-09-03,Delta,Medium,118,Not Started
-PLAT-002,ITEM-002-014,Equipment Item 2-14,100,2025-12-12,Alpha,High,95,Completed
-PLAT-002,ITEM-002-015,Equipment Item 2-15,68,2025-11-03,Gamma,High,9,In Progress
-PLAT-002,ITEM-002-016,Equipment Item 2-16,0,2025-10-04,Echo,Low,55,Not Started
-PLAT-002,ITEM-002-017,Equipment Item 2-17,0,2025-11-13,Delta,High,77,Not Started
-PLAT-002,ITEM-002-018,Equipment Item 2-18,75,2025-10-31,Echo,Medium,45,Almost Done
-PLAT-002,ITEM-002-019,Equipment Item 2-19,59,2025-08-21,Alpha,Medium,89,In Progress
-PLAT-002,ITEM-002-020,Equipment Item 2-20,0,2025-12-10,Beta,High,21,Not Started
-PLAT-002,ITEM-002-021,Equipment Item 2-21,91,2025-11-21,Gamma,Low,23,Almost Done
-PLAT-002,ITEM-002-022,Equipment Item 2-22,0,2025-09-03,Beta,Medium,59,Not Started
-PLAT-002,ITEM-002-023,Equipment Item 2-23,0,2025-09-12,Echo,High,52,Not Started
-PLAT-002,ITEM-002-024,Equipment Item 2-24,8,2025-09-05,Gamma,Low,56,Planning
-PLAT-002,ITEM-002-025,Equipment Item 2-25,9,2025-11-03,Delta,Medium,77,Planning
-PLAT-002,ITEM-002-026,Equipment Item 2-26,52,2025-08-25,Beta,Medium,13,In Progress
-PLAT-002,ITEM-002-027,Equipment Item 2-27,100,2025-10-14,Gamma,Low,85,Completed
-PLAT-002,ITEM-002-028,Equipment Item 2-28,98,2025-12-12,Beta,Low,14,Almost Done
-PLAT-002,ITEM-002-029,Equipment Item 2-29,9,2025-10-03,Gamma,Medium,45,Planning
-PLAT-002,ITEM-002-030,Equipment Item 2-30,7,2025-11-29,Beta,High,38,Planning
-PLAT-002,ITEM-002-031,Equipment Item 2-31,93,2025-08-17,Gamma,High,71,Almost Done
-PLAT-002,ITEM-002-032,Equipment Item 2-32,5,2025-10-15,Delta,High,27,Planning
-PLAT-002,ITEM-002-033,Equipment Item 2-33,3,2025-10-21,Echo,Medium,9,Planning
-PLAT-002,ITEM-002-034,Equipment Item 2-34,56,2025-09-20,Delta,High,50,In Progress
-PLAT-002,ITEM-002-035,Equipment Item 2-35,43,2025-09-21,Alpha,Low,71,In Progress
-PLAT-002,ITEM-002-036,Equipment Item 2-36,0,2025-08-17,Delta,Medium,68,Not Started
-PLAT-002,ITEM-002-037,Equipment Item 2-37,0,2025-08-18,Beta,High,45,Not Started
-PLAT-002,ITEM-002-038,Equipment Item 2-38,0,2025-09-21,Delta,Low,87,Not Started
-PLAT-002,ITEM-002-039,Equipment Item 2-39,44,2025-11-11,Alpha,Medium,116,In Progress
-PLAT-002,ITEM-002-040,Equipment Item 2-40,82,2025-11-25,Gamma,Medium,105,Almost Done
-PLAT-002,ITEM-002-041,Equipment Item 2-41,83,2025-09-09,Delta,High,49,Almost Done
-PLAT-002,ITEM-002-042,Equipment Item 2-42,0,2025-10-06,Echo,Low,43,Not Started
-PLAT-002,ITEM-002-043,Equipment Item 2-43,100,2025-10-16,Alpha,Medium,36,Completed
-PLAT-002,ITEM-002-044,Equipment Item 2-44,94,2025-09-21,Echo,Low,32,Almost Done
-PLAT-002,ITEM-002-045,Equipment Item 2-45,100,2025-12-08,Delta,Low,79,Completed
-PLAT-002,ITEM-002-046,Equipment Item 2-46,30,2025-08-21,Echo,Medium,21,In Progress
-PLAT-002,ITEM-002-047,Equipment Item 2-47,0,2025-10-29,Delta,Low,37,Not Started
-PLAT-002,ITEM-002-048,Equipment Item 2-48,0,2025-11-03,Alpha,High,45,Not Started
-PLAT-002,ITEM-002-049,Equipment Item 2-49,55,2025-09-23,Echo,Low,98,In Progress
-PLAT-002,ITEM-002-050,Equipment Item 2-50,5,2025-09-09,Gamma,Low,108,Planning
+PLAT-001,ITEM-001-001,Equipment Item 1-1,95,2025-11-22,Echo,High,29,Almost Done
+PLAT-001,ITEM-001-002,Equipment Item 1-2,59,2025-11-17,Gamma,Low,96,In Progress
+PLAT-001,ITEM-001-003,Equipment Item 1-3,0,2025-09-08,Echo,High,108,Not Started
+PLAT-001,ITEM-001-004,Equipment Item 1-4,30,2025-08-17,Beta,Low,80,In Progress
+PLAT-001,ITEM-001-005,Equipment Item 1-5,42,2025-09-12,Gamma,High,105,In Progress
+PLAT-001,ITEM-001-006,Equipment Item 1-6,25,2025-11-28,Gamma,High,77,In Progress
+PLAT-001,ITEM-001-007,Equipment Item 1-7,3,2025-09-11,Echo,High,43,Planning
+PLAT-001,ITEM-001-008,Equipment Item 1-8,78,2025-11-11,Alpha,High,65,Almost Done
+PLAT-001,ITEM-001-009,Equipment Item 1-9,32,2025-12-10,Gamma,Low,106,In Progress
+PLAT-001,ITEM-001-010,Equipment Item 1-10,91,2025-11-30,Beta,High,57,Almost Done
+PLAT-001,ITEM-001-011,Equipment Item 1-11,43,2025-10-15,Delta,High,114,In Progress
+PLAT-001,ITEM-001-012,Equipment Item 1-12,100,2025-09-07,Delta,Low,12,Completed
+PLAT-001,ITEM-001-013,Equipment Item 1-13,0,2025-08-30,Beta,Low,105,Not Started
+PLAT-001,ITEM-001-014,Equipment Item 1-14,74,2025-08-17,Delta,Medium,24,In Progress
+PLAT-001,ITEM-001-015,Equipment Item 1-15,100,2025-11-26,Echo,High,100,Completed
+PLAT-001,ITEM-001-016,Equipment Item 1-16,77,2025-10-31,Delta,Medium,73,Almost Done
+PLAT-001,ITEM-001-017,Equipment Item 1-17,46,2025-08-18,Gamma,Low,47,In Progress
+PLAT-001,ITEM-001-018,Equipment Item 1-18,23,2025-09-26,Gamma,High,95,Planning
+PLAT-001,ITEM-001-019,Equipment Item 1-19,0,2025-09-24,Alpha,High,99,Not Started
+PLAT-001,ITEM-001-020,Equipment Item 1-20,50,2025-08-25,Gamma,Medium,56,In Progress
+PLAT-001,ITEM-001-021,Equipment Item 1-21,75,2025-10-02,Alpha,Medium,26,Almost Done
+PLAT-001,ITEM-001-022,Equipment Item 1-22,59,2025-10-24,Alpha,Medium,99,In Progress
+PLAT-001,ITEM-001-023,Equipment Item 1-23,53,2025-09-07,Echo,Medium,60,In Progress
+PLAT-001,ITEM-001-024,Equipment Item 1-24,34,2025-09-28,Echo,Medium,33,In Progress
+PLAT-001,ITEM-001-025,Equipment Item 1-25,6,2025-11-14,Delta,Medium,106,Planning
+PLAT-001,ITEM-001-026,Equipment Item 1-26,76,2025-12-10,Gamma,Medium,21,Almost Done
+PLAT-001,ITEM-001-027,Equipment Item 1-27,80,2025-12-01,Alpha,High,17,Almost Done
+PLAT-001,ITEM-001-028,Equipment Item 1-28,56,2025-08-22,Delta,High,60,In Progress
+PLAT-001,ITEM-001-029,Equipment Item 1-29,52,2025-12-01,Echo,Low,62,In Progress
+PLAT-001,ITEM-001-030,Equipment Item 1-30,81,2025-09-05,Echo,Low,28,Almost Done
+PLAT-001,ITEM-001-031,Equipment Item 1-31,70,2025-08-27,Echo,Low,53,In Progress
+PLAT-001,ITEM-001-032,Equipment Item 1-32,100,2025-09-11,Gamma,High,27,Completed
+PLAT-001,ITEM-001-033,Equipment Item 1-33,0,2025-10-10,Delta,Low,37,Not Started
+PLAT-001,ITEM-001-034,Equipment Item 1-34,55,2025-10-22,Delta,High,94,In Progress
+PLAT-001,ITEM-001-035,Equipment Item 1-35,0,2025-09-01,Echo,Low,110,Not Started
+PLAT-001,ITEM-001-036,Equipment Item 1-36,51,2025-09-12,Alpha,Medium,75,In Progress
+PLAT-001,ITEM-001-037,Equipment Item 1-37,85,2025-10-08,Beta,High,66,Almost Done
+PLAT-001,ITEM-001-038,Equipment Item 1-38,0,2025-12-02,Beta,Low,45,Not Started
+PLAT-001,ITEM-001-039,Equipment Item 1-39,0,2025-08-28,Beta,High,21,Not Started
+PLAT-001,ITEM-001-040,Equipment Item 1-40,0,2025-10-19,Gamma,High,40,Not Started
+PLAT-001,ITEM-001-041,Equipment Item 1-41,100,2025-11-27,Echo,High,37,Completed
+PLAT-001,ITEM-001-042,Equipment Item 1-42,65,2025-11-13,Echo,Low,65,In Progress
+PLAT-001,ITEM-001-043,Equipment Item 1-43,60,2025-10-20,Gamma,Medium,11,In Progress
+PLAT-001,ITEM-001-044,Equipment Item 1-44,19,2025-09-10,Gamma,High,102,Planning
+PLAT-001,ITEM-001-045,Equipment Item 1-45,96,2025-12-03,Alpha,High,13,Almost Done
+PLAT-001,ITEM-001-046,Equipment Item 1-46,16,2025-11-21,Echo,Low,77,Planning
+PLAT-001,ITEM-001-047,Equipment Item 1-47,28,2025-10-11,Beta,High,19,In Progress
+PLAT-001,ITEM-001-048,Equipment Item 1-48,50,2025-11-03,Alpha,Low,85,In Progress
+PLAT-001,ITEM-001-049,Equipment Item 1-49,42,2025-10-15,Delta,High,120,In Progress
+PLAT-001,ITEM-001-050,Equipment Item 1-50,100,2025-10-26,Alpha,Medium,19,Completed
+PLAT-002,ITEM-002-001,Equipment Item 2-1,74,2025-11-24,Gamma,High,59,In Progress
+PLAT-002,ITEM-002-002,Equipment Item 2-2,100,2025-08-21,Delta,High,50,Completed
+PLAT-002,ITEM-002-003,Equipment Item 2-3,5,2025-08-20,Echo,Low,54,Planning
+PLAT-002,ITEM-002-004,Equipment Item 2-4,84,2025-08-24,Echo,Low,111,Almost Done
+PLAT-002,ITEM-002-005,Equipment Item 2-5,100,2025-10-10,Gamma,High,118,Completed
+PLAT-002,ITEM-002-006,Equipment Item 2-6,2,2025-10-30,Alpha,Medium,51,Planning
+PLAT-002,ITEM-002-007,Equipment Item 2-7,52,2025-11-06,Alpha,Medium,34,In Progress
+PLAT-002,ITEM-002-008,Equipment Item 2-8,0,2025-11-19,Alpha,Low,102,Not Started
+PLAT-002,ITEM-002-009,Equipment Item 2-9,26,2025-08-27,Echo,High,70,In Progress
+PLAT-002,ITEM-002-010,Equipment Item 2-10,28,2025-11-11,Echo,High,38,In Progress
+PLAT-002,ITEM-002-011,Equipment Item 2-11,92,2025-09-26,Alpha,Medium,79,Almost Done
+PLAT-002,ITEM-002-012,Equipment Item 2-12,47,2025-10-20,Alpha,Low,76,In Progress
+PLAT-002,ITEM-002-013,Equipment Item 2-13,0,2025-12-10,Echo,High,20,Not Started
+PLAT-002,ITEM-002-014,Equipment Item 2-14,8,2025-11-12,Alpha,High,79,Planning
+PLAT-002,ITEM-002-015,Equipment Item 2-15,92,2025-12-01,Echo,Medium,48,Almost Done
+PLAT-002,ITEM-002-016,Equipment Item 2-16,90,2025-08-31,Echo,Medium,79,Almost Done
+PLAT-002,ITEM-002-017,Equipment Item 2-17,46,2025-10-01,Alpha,High,74,In Progress
+PLAT-002,ITEM-002-018,Equipment Item 2-18,27,2025-11-11,Beta,Low,83,In Progress
+PLAT-002,ITEM-002-019,Equipment Item 2-19,100,2025-11-02,Alpha,Low,107,Completed
+PLAT-002,ITEM-002-020,Equipment Item 2-20,100,2025-11-20,Alpha,Medium,52,Completed
+PLAT-002,ITEM-002-021,Equipment Item 2-21,71,2025-12-04,Alpha,Low,54,In Progress
+PLAT-002,ITEM-002-022,Equipment Item 2-22,52,2025-11-09,Delta,High,51,In Progress
+PLAT-002,ITEM-002-023,Equipment Item 2-23,55,2025-12-01,Beta,High,100,In Progress
+PLAT-002,ITEM-002-024,Equipment Item 2-24,15,2025-11-20,Beta,Medium,50,Planning
+PLAT-002,ITEM-002-025,Equipment Item 2-25,0,2025-11-18,Gamma,Medium,105,Not Started
+PLAT-002,ITEM-002-026,Equipment Item 2-26,100,2025-11-28,Gamma,High,98,Completed
+PLAT-002,ITEM-002-027,Equipment Item 2-27,100,2025-09-24,Delta,Low,58,Completed
+PLAT-002,ITEM-002-028,Equipment Item 2-28,65,2025-10-23,Echo,High,67,In Progress
+PLAT-002,ITEM-002-029,Equipment Item 2-29,32,2025-12-04,Beta,High,40,In Progress
+PLAT-002,ITEM-002-030,Equipment Item 2-30,15,2025-09-17,Gamma,High,85,Planning
+PLAT-002,ITEM-002-031,Equipment Item 2-31,0,2025-09-21,Alpha,High,96,Not Started
+PLAT-002,ITEM-002-032,Equipment Item 2-32,68,2025-11-02,Echo,Low,74,In Progress
+PLAT-002,ITEM-002-033,Equipment Item 2-33,0,2025-09-20,Alpha,High,43,Not Started
+PLAT-002,ITEM-002-034,Equipment Item 2-34,0,2025-09-05,Alpha,Low,92,Not Started
+PLAT-002,ITEM-002-035,Equipment Item 2-35,71,2025-11-21,Echo,Low,19,In Progress
+PLAT-002,ITEM-002-036,Equipment Item 2-36,71,2025-11-28,Echo,Medium,89,In Progress
+PLAT-002,ITEM-002-037,Equipment Item 2-37,0,2025-09-20,Beta,Low,68,Not Started
+PLAT-002,ITEM-002-038,Equipment Item 2-38,74,2025-09-25,Echo,High,64,In Progress
+PLAT-002,ITEM-002-039,Equipment Item 2-39,33,2025-08-17,Delta,Low,20,In Progress
+PLAT-002,ITEM-002-040,Equipment Item 2-40,23,2025-12-07,Delta,Medium,109,Planning
+PLAT-002,ITEM-002-041,Equipment Item 2-41,79,2025-09-23,Delta,High,29,Almost Done
+PLAT-002,ITEM-002-042,Equipment Item 2-42,92,2025-09-18,Alpha,Medium,15,Almost Done
+PLAT-002,ITEM-002-043,Equipment Item 2-43,5,2025-12-03,Gamma,High,55,Planning
+PLAT-002,ITEM-002-044,Equipment Item 2-44,93,2025-10-28,Echo,Low,26,Almost Done
+PLAT-002,ITEM-002-045,Equipment Item 2-45,65,2025-12-02,Beta,Low,66,In Progress
+PLAT-002,ITEM-002-046,Equipment Item 2-46,69,2025-09-10,Gamma,Low,89,In Progress
+PLAT-002,ITEM-002-047,Equipment Item 2-47,95,2025-11-30,Echo,High,80,Almost Done
+PLAT-002,ITEM-002-048,Equipment Item 2-48,54,2025-10-10,Gamma,Low,87,In Progress
+PLAT-002,ITEM-002-049,Equipment Item 2-49,73,2025-11-22,Delta,High,93,In Progress
+PLAT-002,ITEM-002-050,Equipment Item 2-50,28,2025-09-30,Alpha,Medium,26,In Progress
