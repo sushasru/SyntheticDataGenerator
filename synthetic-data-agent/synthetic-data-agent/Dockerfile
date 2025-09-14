@@ -15,8 +15,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY synthetic_data_agent.py .
 COPY app.py .
 
-# Create output directory for generated files
-RUN mkdir -p /app/output
+# Create directories
+RUN mkdir -p /app/output /app/uploads
 
 # Expose port for web interface
 EXPOSE 8080

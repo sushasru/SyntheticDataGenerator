@@ -7,6 +7,8 @@ services:
       - "8080:8080"
     volumes:
       - ./output:/app/output
+      - ./uploads:/app/uploads
     environment:
       - FLASK_ENV=development
+      - FLASK_MAX_CONTENT_LENGTH=104857600  # 100MB in bytes
     restart: unless-stopped
