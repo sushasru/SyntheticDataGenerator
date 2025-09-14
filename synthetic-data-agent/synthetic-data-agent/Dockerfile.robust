@@ -1,0 +1,35 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    gcc \
+    ca-certificates \
+    && rm -rf /var/lib/apt/lists/*
+
+# Update SSL certificates
+RUN update-ca-certificates
+
+# Copy requirements first (for better caching)
+COPY requirements.txt .
+
+# Install Python packages with SSL bypass for restricted environments
+RUN pip install --no-cache-dir \
+    --trusted-host pypi.org \
+    --trusted-host pypi.python.org \
+    --trusted-host files.pythonhosted.org \
+    -r requirements.txt
+
+# Copy application code
+COPY synthetic_data_agent.py .
+COPY app.py .
+
+# Create output directory for generated files
+RUN mkdir -p /app/output
+
+# Expose port for web interface
+EXPOSE 8080
+
+# Run the web application
+CMD ["python", "app.py"]
