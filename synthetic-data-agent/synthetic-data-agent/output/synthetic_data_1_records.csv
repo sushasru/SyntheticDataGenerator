@@ -1,0 +1,2 @@
+platform_id,item_id,item_name,item_type,completion_percentage,due_date,assigned_team,priority,estimated_hours,actual_hours,status
+PLAT-001,ITEM-001-001,Pre-emptive 6thgeneration workforce,S,0,2025-11-12,Alpha,Low,111,0,Not Started

@@ -1,0 +1,13 @@
+# docker-compose.yml
+version: '3.8'
+
+services:
+  synthetic-data-agent:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./output:/app/output
+    environment:
+      - FLASK_ENV=development
+    restart: unless-stopped
