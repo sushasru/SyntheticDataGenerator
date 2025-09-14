@@ -1,76 +1,76 @@
 transaction_id,customer_id,product_name,category,quantity,unit_price,total_amount,transaction_date,payment_method,region
-16493253-cbf,43081610,Product 1,Clothing,8,262.16,2097.28,2025-04-12,Credit Card,Central
-7619e3b5-692,a091dad8,Product 2,Electronics,8,259.15,2073.2,2025-05-13,PayPal,West
-a390e112-3e1,d8a4e403,Product 3,Home,9,438.4,3945.6,2024-11-27,Credit Card,West
-fd7f7fc9-3e2,218b5d2c,Product 4,Electronics,3,295.12,885.36,2025-01-30,PayPal,East
-e534aad9-ea9,08479528,Product 5,Electronics,3,162.9,488.7,2025-03-05,Cash,South
-b468da34-907,44d5eb40,Product 6,Sports,2,363.04,726.08,2025-09-01,Credit Card,Central
-f921cb50-2ce,d671c6b1,Product 7,Clothing,4,269.37,1077.48,2025-01-16,Debit Card,East
-3d2efaee-585,db0b887f,Product 8,Books,9,348.02,3132.18,2024-12-31,Credit Card,East
-adfaedc4-7ad,8526e5bb,Product 9,Home,7,93.42,653.94,2025-08-02,Debit Card,West
-0e56598e-9f7,6f35550b,Product 10,Electronics,5,279.95,1399.75,2025-02-16,PayPal,West
-6ceec7c0-774,a5672bcf,Product 11,Electronics,4,397.54,1590.16,2025-04-12,Credit Card,West
-f05a3390-79e,b1850a69,Product 12,Clothing,4,236.29,945.16,2025-02-13,Credit Card,West
-297b6128-d14,df8dbab5,Product 13,Home,1,383.72,383.72,2025-07-05,Cash,North
-d6e0bdb9-a75,8f46e8d6,Product 14,Books,4,155.83,623.32,2025-06-16,Cash,South
-ff355d75-bd2,b914b526,Product 15,Books,1,214.22,214.22,2024-10-09,PayPal,East
-0b4c793a-db5,a6dc768a,Product 16,Electronics,4,407.16,1628.64,2025-03-29,Credit Card,South
-16b01d91-882,afd61967,Product 17,Sports,1,357.96,357.96,2024-10-22,Cash,Central
-c200c770-e90,234e7723,Product 18,Electronics,2,405.03,810.06,2025-03-03,PayPal,South
-ea610bfb-859,c60e9072,Product 19,Sports,4,210.57,842.28,2025-04-20,Debit Card,East
-e55305b4-32c,6a6d58e1,Product 20,Books,9,481.19,4330.71,2025-03-07,Debit Card,East
-dc5963c2-ae0,03a175d5,Product 21,Electronics,2,231.4,462.8,2025-07-31,PayPal,East
-cbab39e5-d3f,a3b1b4e9,Product 22,Home,10,462.75,4627.5,2025-03-16,PayPal,South
-5b6da014-5ea,9d89d123,Product 23,Books,5,197.14,985.7,2025-06-21,Debit Card,East
-6ea69e07-07c,d6de07c0,Product 24,Clothing,7,474.45,3321.15,2024-12-18,Cash,South
-e1455fa3-a5b,ba7d1464,Product 25,Home,8,284.34,2274.72,2025-07-22,Cash,West
-f91b661b-ed9,2656af0a,Product 26,Clothing,5,216.89,1084.45,2025-07-24,Cash,Central
-95b0b268-76c,8b10abe7,Product 27,Sports,4,371.32,1485.28,2025-02-15,Debit Card,East
-708a8d85-88d,c2435a47,Product 28,Sports,4,414.89,1659.56,2024-09-19,PayPal,East
-38917a8b-422,e7e35a62,Product 29,Books,6,156.57,939.42,2025-05-08,Cash,East
-c95599f1-924,f2811ae9,Product 30,Books,7,47.57,332.99,2024-09-21,Credit Card,North
-453685c2-eff,ec5b6c57,Product 31,Sports,10,108.37,1083.7,2025-07-27,Credit Card,South
-6a91d092-c47,882ddabb,Product 32,Books,10,427.79,4277.9,2025-02-09,PayPal,Central
-b8d186e8-304,80debca3,Product 33,Home,1,275.92,275.92,2025-03-26,Cash,Central
-fb01896c-58f,bc02203d,Product 34,Electronics,8,73.77,590.16,2024-10-27,Debit Card,East
-b652c540-5ce,7b6db6eb,Product 35,Clothing,2,20.62,41.24,2025-07-06,Debit Card,West
-9fbb942a-722,1f0c6496,Product 36,Books,6,338.93,2033.58,2025-05-27,Cash,Central
-36d9a1bd-994,bcf8380c,Product 37,Electronics,2,266.56,533.12,2025-05-04,Debit Card,East
-403bef16-d61,37693546,Product 38,Sports,10,450.13,4501.3,2025-06-22,Cash,North
-ef521d50-a29,97c04783,Product 39,Electronics,5,250.31,1251.55,2025-04-30,Credit Card,South
-bbd0f972-25f,9c386f5e,Product 40,Clothing,1,11.44,11.44,2025-01-03,Cash,Central
-4ad2f2db-c25,458fdcb8,Product 41,Clothing,1,473.83,473.83,2024-09-24,PayPal,West
-bedba128-4ae,580a657d,Product 42,Sports,3,169.09,507.27,2025-04-26,Cash,North
-0f0bc8ee-16f,d9b161a2,Product 43,Sports,5,227.69,1138.45,2025-06-03,Cash,East
-dadbdbd9-b74,330d04a9,Product 44,Electronics,4,121.23,484.92,2025-03-04,Cash,East
-230d610e-d06,234a701f,Product 45,Home,7,307.39,2151.73,2024-09-15,Credit Card,West
-cf87db93-7bb,02c00873,Product 46,Home,7,127.59,893.13,2024-11-09,PayPal,East
-99fd5f70-f69,eb19c4ac,Product 47,Electronics,5,441.64,2208.2,2025-08-10,Credit Card,North
-dc766740-047,44af5481,Product 48,Electronics,8,57.36,458.88,2025-05-11,Cash,South
-a0f1a73a-0b9,2011861c,Product 49,Sports,8,220.92,1767.36,2025-08-16,Debit Card,West
-27163ad9-51d,16778285,Product 50,Electronics,2,234.96,469.92,2024-12-24,Debit Card,South
-06ddca73-890,369c9c66,Product 51,Clothing,3,201.83,605.49,2025-01-20,PayPal,Central
-390a3376-563,7eae0103,Product 52,Clothing,8,115.21,921.68,2025-08-31,Credit Card,South
-a470b0cb-ca4,8228ea76,Product 53,Books,2,260.41,520.82,2024-11-22,Credit Card,West
-a23d09b5-e83,4e35397d,Product 54,Clothing,10,134.03,1340.3,2025-04-24,Credit Card,Central
-a1fc99b2-718,8c7218b1,Product 55,Home,2,124.84,249.68,2025-03-06,Credit Card,West
-d030f33b-f44,e022ee8f,Product 56,Sports,10,157.92,1579.2,2025-08-02,Credit Card,North
-aa148e90-e22,9bbbd54b,Product 57,Home,4,422.93,1691.72,2025-03-29,PayPal,Central
-d5a955d5-a54,6a5a69be,Product 58,Books,4,447.05,1788.2,2025-01-29,Credit Card,Central
-3ef91a9a-c8d,c07be333,Product 59,Electronics,6,267.6,1605.6,2025-08-05,Cash,North
-d3241b7b-2f3,383e41f8,Product 60,Home,3,422.47,1267.41,2024-12-20,Credit Card,South
-bb16da1d-883,8e47a93e,Product 61,Electronics,6,187.05,1122.3,2025-05-04,PayPal,North
-dc3cfcb7-390,4c8857f4,Product 62,Sports,7,254.74,1783.18,2024-10-02,Debit Card,West
-4276719e-610,f1bd9ce9,Product 63,Home,1,150.63,150.63,2025-05-08,Cash,North
-f3eefaaf-25c,5a55d1f0,Product 64,Electronics,7,38.17,267.19,2024-12-04,Credit Card,West
-ba0e76bb-16d,8351c730,Product 65,Clothing,6,379.26,2275.56,2024-09-29,Credit Card,North
-6b84b7db-775,14ca9bc0,Product 66,Electronics,5,339.19,1695.95,2025-07-10,Credit Card,North
-7426a395-858,a5a5ac0e,Product 67,Home,1,278.28,278.28,2025-02-24,Debit Card,East
-b128b5a6-436,3f47f585,Product 68,Clothing,1,215.12,215.12,2025-07-18,Debit Card,South
-ba1c2b69-af4,f70e5db3,Product 69,Electronics,7,120.42,842.94,2024-11-04,Debit Card,South
-708b3ff5-5d8,c53039dd,Product 70,Home,10,382.42,3824.2,2024-12-16,Credit Card,South
-b395f719-69b,8458aed9,Product 71,Home,7,478.23,3347.61,2025-06-30,Debit Card,Central
-aa47838b-ec2,562cc1ba,Product 72,Sports,3,180.71,542.13,2025-05-13,Credit Card,South
-fd08c2ad-734,197ca296,Product 73,Clothing,5,195.9,979.5,2025-08-27,PayPal,North
-b0ea04fa-b06,79024c00,Product 74,Clothing,7,138.25,967.75,2024-12-24,Credit Card,East
-db1d9145-e3b,3f801460,Product 75,Electronics,8,62.44,499.52,2025-06-03,Debit Card,Central
+f2e31aa6-dba,6a94c883,Product 1,Electronics,6,448.06,2688.36,2025-04-21,PayPal,Central
+e28f5f9e-dcd,719fa0cd,Product 2,Books,10,209.22,2092.2,2025-06-30,Debit Card,Central
+ea544580-64f,18f10aba,Product 3,Books,4,148.9,595.6,2025-08-12,PayPal,West
+707d593f-334,c0317b40,Product 4,Electronics,6,274.9,1649.4,2025-08-21,PayPal,North
+ccd61768-b85,dd552e1d,Product 5,Books,7,454.43,3181.01,2025-02-09,Credit Card,West
+f70d9219-86f,55481496,Product 6,Electronics,5,433.49,2167.45,2025-03-12,Cash,South
+f9ce771f-8d0,327080a3,Product 7,Books,1,448.1,448.1,2024-10-18,PayPal,Central
+7dad021b-641,c377489e,Product 8,Electronics,8,442.02,3536.16,2025-08-24,Debit Card,Central
+ffa9a9f0-708,cadf9872,Product 9,Sports,4,299.47,1197.88,2025-01-24,Credit Card,South
+29329aa0-c29,4f115cf9,Product 10,Books,3,176.76,530.28,2025-05-22,Credit Card,South
+6d938c86-b2d,d36bcb7a,Product 11,Clothing,1,347.98,347.98,2025-07-18,PayPal,West
+5d1ab938-da6,3954a237,Product 12,Clothing,3,234.06,702.18,2025-03-07,Debit Card,South
+72b57b1b-243,463d327f,Product 13,Electronics,7,280.89,1966.23,2024-12-06,Debit Card,Central
+a01d36b9-4bc,b80e6d0b,Product 14,Clothing,3,16.17,48.51,2025-04-29,Cash,West
+36f54b60-d69,89828c47,Product 15,Home,4,406.08,1624.32,2024-11-05,Cash,East
+37119791-f64,6ad22a04,Product 16,Books,2,36.88,73.76,2025-04-05,PayPal,West
+d10cf66f-b01,8ce6234f,Product 17,Books,2,408.47,816.94,2025-02-09,Cash,North
+ffefc5e4-e07,3934f60d,Product 18,Electronics,5,226.95,1134.75,2025-02-04,PayPal,North
+d1b9ad95-3db,1e3f859f,Product 19,Sports,7,45.43,318.01,2025-09-12,PayPal,East
+2dc7f395-4c2,26bde202,Product 20,Clothing,5,143.05,715.25,2025-02-18,Cash,West
+e0f6282b-32c,b437c192,Product 21,Home,1,301.42,301.42,2024-11-09,Cash,Central
+ed615423-a7e,caf38598,Product 22,Clothing,7,476.34,3334.38,2024-12-05,Debit Card,East
+930e0509-592,8e6508e4,Product 23,Electronics,8,362.3,2898.4,2025-06-07,Credit Card,East
+2ebc8e8c-d24,93cb4d5f,Product 24,Clothing,6,449.66,2697.96,2025-07-21,Credit Card,Central
+8572daaf-d10,20c8ed96,Product 25,Clothing,5,239.8,1199.0,2025-08-03,Cash,North
+bb273244-02a,5e8904dc,Product 26,Home,4,415.45,1661.8,2025-08-20,Cash,West
+0d5a5e51-50c,c653f97f,Product 27,Home,7,453.26,3172.82,2024-11-16,PayPal,North
+2d4a5872-915,d1f1f90f,Product 28,Home,9,397.98,3581.82,2024-12-12,PayPal,North
+2cddf307-22a,b375140e,Product 29,Books,10,172.17,1721.7,2025-01-21,Debit Card,East
+0919cc82-b49,49a187ba,Product 30,Clothing,5,223.56,1117.8,2024-12-14,Cash,East
+43fdd604-4be,4462403f,Product 31,Sports,3,32.84,98.52,2024-12-10,Cash,East
+0c9a60f8-aae,0412ee02,Product 32,Electronics,7,315.44,2208.08,2025-02-23,PayPal,North
+cd42dd29-0dc,c86c9388,Product 33,Sports,9,346.87,3121.83,2024-09-27,Cash,West
+d5f1f9b4-993,d7f9c94b,Product 34,Home,7,114.36,800.52,2024-09-23,Credit Card,South
+6f4a3620-e07,ec93ceb8,Product 35,Books,3,253.52,760.56,2024-12-14,Debit Card,West
+d6d1ef23-8c1,e9e1d23b,Product 36,Home,1,246.18,246.18,2025-05-08,Cash,West
+0172eee8-177,f329fc2f,Product 37,Sports,10,13.77,137.7,2025-09-07,PayPal,Central
+0e4d4aaa-fa4,6c352ca3,Product 38,Clothing,9,341.39,3072.51,2024-11-25,Debit Card,West
+36f437f5-329,3ee4cc8a,Product 39,Books,4,428.81,1715.24,2025-07-30,Credit Card,Central
+5b16c312-62f,6cd77b8f,Product 40,Electronics,10,255.12,2551.2,2025-05-15,Debit Card,North
+85ba1b7a-dee,eb92f81c,Product 41,Books,2,471.74,943.48,2024-11-03,Credit Card,East
+4aa0cafe-637,298adf71,Product 42,Sports,8,399.18,3193.44,2024-10-29,Credit Card,East
+79605c19-dc8,6c6133f2,Product 43,Home,5,104.69,523.45,2025-02-27,PayPal,Central
+9d0f8d43-bdc,515094e8,Product 44,Home,5,444.1,2220.5,2024-09-30,Cash,Central
+c8380973-ed8,29a2de19,Product 45,Sports,4,104.78,419.12,2025-07-22,Debit Card,North
+b4b3b6cc-aea,6e675fa8,Product 46,Clothing,6,469.53,2817.18,2025-07-30,Cash,Central
+78d8892b-48e,1121cad8,Product 47,Sports,9,344.71,3102.39,2025-05-24,Credit Card,North
+ff988f7d-dd3,048688fe,Product 48,Electronics,3,14.7,44.1,2025-02-15,PayPal,Central
+b02c3ffe-b7f,c6ada394,Product 49,Clothing,10,257.42,2574.2,2024-11-06,PayPal,Central
+b5d2d565-e45,e14a0b6e,Product 50,Home,4,320.26,1281.04,2024-12-14,Credit Card,South
+924fc40e-224,ecb371a3,Product 51,Electronics,10,210.16,2101.6,2025-06-24,PayPal,West
+3ad2f6c5-7b6,89ec937c,Product 52,Electronics,8,361.29,2890.32,2025-01-31,Credit Card,Central
+8adc1ad3-8ee,9687c8ff,Product 53,Clothing,1,414.4,414.4,2025-02-28,Cash,East
+afaf8e8f-031,123e3218,Product 54,Clothing,5,237.05,1185.25,2025-01-02,Debit Card,West
+8bb8a154-71d,c7d601bd,Product 55,Sports,8,233.53,1868.24,2025-08-17,PayPal,South
+e1182f76-5a5,d626d090,Product 56,Clothing,4,442.92,1771.68,2024-12-15,Cash,West
+af7303f6-b99,fa4d79c1,Product 57,Home,1,44.47,44.47,2024-12-25,Cash,East
+f4492ad6-772,2655905d,Product 58,Electronics,9,219.97,1979.73,2024-11-09,PayPal,West
+be7857b1-bb7,469a9903,Product 59,Books,1,476.4,476.4,2025-05-09,PayPal,East
+032a7b83-fac,540853bd,Product 60,Sports,7,72.44,507.08,2025-01-19,PayPal,North
+5b26dccd-733,4312d33a,Product 61,Home,10,250.92,2509.2,2025-06-13,Credit Card,East
+a22e10a7-4da,ee2cdb86,Product 62,Home,4,459.11,1836.44,2025-01-30,Cash,Central
+1ff77528-b5e,bf5255e8,Product 63,Home,10,469.36,4693.6,2025-01-07,PayPal,West
+c83cd096-88e,bbd81c9a,Product 64,Electronics,8,336.24,2689.92,2024-11-02,Credit Card,East
+41ef1f9f-c65,8cff771b,Product 65,Clothing,9,261.9,2357.1,2025-08-15,PayPal,West
+3d53bfd7-952,3cd0b818,Product 66,Sports,6,439.13,2634.78,2025-03-09,PayPal,South
+2af0954d-6dc,fd23346c,Product 67,Clothing,6,493.73,2962.38,2024-11-11,PayPal,East
+7aa8ba01-f66,b16801f4,Product 68,Clothing,2,218.82,437.64,2025-08-30,PayPal,South
+957f2e08-84b,ef9b246e,Product 69,Home,10,155.63,1556.3,2025-07-31,Credit Card,East
+e3afe2b3-13c,4e42c5c1,Product 70,Clothing,9,157.17,1414.53,2024-09-26,Debit Card,East
+4e72ce40-c14,ff3d03bf,Product 71,Home,9,101.02,909.18,2025-07-18,Debit Card,West
+a19d8fa2-53b,400e2ed7,Product 72,Electronics,10,405.57,4055.7,2024-11-24,Credit Card,Central
+23de7345-8e8,31b2a91d,Product 73,Sports,6,324.44,1946.64,2025-04-08,Cash,North
+9fcc9474-4ec,338955a6,Product 74,Home,6,263.21,1579.26,2024-12-26,Credit Card,Central
+b077b053-3fb,9b21fa34,Product 75,Electronics,4,139.26,557.04,2024-10-02,Cash,West
